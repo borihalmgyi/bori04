@@ -1,0 +1,41 @@
+body {
+    background-image: url('egyszinu-bezs.jpg') ;
+}
+#tarolo {
+    width: 800px;
+    margin: 15px auto;
+    background-color:  maroon;
+}
+#fejlec {
+    height: 150px;
+    padding: 10px;
+    background-color: white;
+    background-image: url('target.png');
+    background-position: right bottom;
+    background-repeat: no-repeat;
+}
+#lablec {
+    padding: 10px;
+    background-color: red;
+    color: white;
+}
+#navigacio {
+    float: left;
+    width: 200px;
+    padding: 10px;
+    background-color: maroon;
+}
+#tartalom {
+    margin-left: 220px;
+    padding: 10px;
+    background-color: lightyellow;
+}
+h1 {
+    margin: 0;
+    padding: 10px;
+    background-color: maroon;
+    color: white;
+}
+a {
+    color: red;
+}
